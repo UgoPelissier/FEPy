@@ -14,7 +14,7 @@ Delaunay triangulation
 - Maximum mesh size
 - Minimum angle of 20°
 
-![image](https://user-images.githubusercontent.com/95024044/189436375-9eaac21b-a934-4804-8cbb-589b6f72430d.png)
+![image](https://user-images.githubusercontent.com/95024044/189440875-f7736f4b-e30b-4d10-aac1-c24f3ba526b9.png)
 
 ![image](https://user-images.githubusercontent.com/95024044/189417475-4773a97a-d9ab-4cac-9157-da677e53ad33.png)
 
