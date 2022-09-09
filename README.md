@@ -11,8 +11,10 @@ The utlimate goal was to implement from scratch both a mesher and a PDE solver t
 Delaunay triangulation
 - Unstructured
 - Constrained
+- Maximum mesh size
 - Minimum angle of 20°
 
+![image](https://user-images.githubusercontent.com/95024044/189436375-9eaac21b-a934-4804-8cbb-589b6f72430d.png)
 
 ![image](https://user-images.githubusercontent.com/95024044/189417475-4773a97a-d9ab-4cac-9157-da677e53ad33.png)
 
