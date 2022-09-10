@@ -48,4 +48,6 @@ $$
 \end{align*}
 $$
 
+![image](https://user-images.githubusercontent.com/95024044/189478517-c40aa26d-c1b2-4915-9b18-e39e22b5b8e1.png)
+
 ![image](https://user-images.githubusercontent.com/95024044/189477809-38e02119-8ca1-460f-baf0-48ed8cf0dd15.png)
