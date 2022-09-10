@@ -868,7 +868,7 @@ anim = False
 mesh_size = 0.4
 minimum_required_angle = 20
 
-geom = prepare_geometries(geom, mesh_size)
-out = multiple_geometries_delaunay_triangulation(geom, minimum_required_angle, P, anim, mesh_size)
+# geom = prepare_geometries(geom, mesh_size)
+# out = multiple_geometries_delaunay_triangulation(geom, minimum_required_angle, P, anim, mesh_size)
 
 #--- TEST --------------------------------------------------------------------+

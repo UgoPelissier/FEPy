@@ -15,7 +15,7 @@ import numpy as np
 import math
 import time
 
-from Delaunay_Triangulation import *
+from Delaunay_Triangulation_Oven import *
 from matplotlib import cm
 from scipy.interpolate import griddata
 
@@ -349,8 +349,8 @@ def write_vtu(Triangulation, Points, U, n):
 #--- PARAMETERS ---------------------------------------------------------------+
 start_time = time.time()
 
-path = '/Users/fp/Desktop/Ugo/Projets/Elements_Finis/Maillage/csv/'
-filename = 'Oven_20_refined.csv'
+path = '/Users/fp/Desktop/Ugo/Projets/Elements_Finis/Mesh/csv/'
+filename = 'Oven_20_unstructured.csv'
 delta = 0.001
 
 def k(point, geometry):
